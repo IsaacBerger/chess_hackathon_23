@@ -191,8 +191,7 @@ class Bot:
 
 # Add promotion stuff
 
-# if __name__ == "__main__":
-if True:
+if __name__ == "__main__":
 
     chess_bot = Bot()  # you can enter a FEN here, like Bot("...")
     with game_manager():
